@@ -1,0 +1,33 @@
+{
+  "name": "app_version_scraper",
+  "description": "it scrapes the version of the specified application on the specified platfrom.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/myonehara/app_version_scraper",
+  "author": {
+    "name": "Masami Yonehara",
+    "email": "zeitdiebe@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/myonehara/app_version_scraper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/myonehara/app_version_scraper/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/myonehara/app_version_scraper/blob/master/LICENSE"
+    }
+  ],
+  "main": "lib/app_version_scraper",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "keywords": [],
+  "dependencies": {
+    "cheerio": "~0.12.1",
+    "optimist": "~0.6.0",
+    "request": "~2.27.0"
+  }
+}
