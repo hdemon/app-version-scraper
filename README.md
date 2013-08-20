@@ -21,3 +21,6 @@ _(Nothing yet)_
 ## License
 Copyright (c) 2013 Masami Yonehara
 Licensed under the MIT license.
+=======
+app-version-scraper
+===================
